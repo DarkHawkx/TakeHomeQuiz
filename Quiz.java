@@ -2,7 +2,7 @@
 interface Add{
     int range(int num1, int num2);
 }
-public class Main {
+public class Quiz {
     public static void main(String[] args) {
         Add add = (x1, x2) -> {
             int sum = 0;
